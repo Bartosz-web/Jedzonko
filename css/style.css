@@ -9,7 +9,11 @@
   background-color: #fdf2e9;
 
   height: 9.6rem;
-  padding: 0 4.8rem;
+  padding: 4.8rem;
+}
+
+.header .logo {
+  margin-right: 3.2rem;
 }
 
 .logo {
@@ -189,14 +193,14 @@
 .step-img-box::before {
   width: 60%;
   padding-bottom: 60%; /* 60% of parent width */
-  background-color: #fdf2e9;
+  background-color: rgba(255, 68, 0, 0.111);
   z-index: -2; /* Behind the image */
 }
 
 .step-img-box::after {
   width: 45%;
   padding-bottom: 45%; /* 60% of parent width */
-  background-color: #fae5d3;
+  background-color: rgba(255, 68, 0, 0.141);
   z-index: -1; /* Behind the image */
 }
 
