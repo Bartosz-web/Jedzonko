@@ -194,16 +194,46 @@
   width: 60%;
   padding-bottom: 60%; /* 60% of parent width */
   background-color: rgba(255, 68, 0, 0.111);
-  z-index: -2; /* Behind the image */
+  z-index: -1; /* Behind the image */
 }
 
 .step-img-box::after {
   width: 45%;
   padding-bottom: 45%; /* 60% of parent width */
   background-color: rgba(255, 68, 0, 0.141);
-  z-index: -1; /* Behind the image */
+  z-index: -2; /* Behind the image */
 }
 
 .step-img {
   width: 35%;
+}
+
+/* ************************************ */
+/* MEALS SECTION */
+/* ************************************ */
+
+.section-meals {
+  padding: 9.6rem 0;
+}
+
+.meal-title {
+  font-size: 2.4rem;
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 3.2rem;
+}
+
+.meal-attributes {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.meal-attribute {
+  font-size: 1.8rem;
+}
+
+.meal-img {
+  width: 100%;
 }
