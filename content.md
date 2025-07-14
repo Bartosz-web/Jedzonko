@@ -120,10 +120,12 @@ Utwórz konto
 Zaloguj się
 Aplikacja iOS
 Aplikacja Android
+
 O Jedzonku
 Dla firm
 Partnerzy kulinarni
 Kariera
+
 Katalog przepisów
 Centrum pomocy
 Prywatność i warunki
