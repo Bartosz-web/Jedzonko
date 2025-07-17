@@ -63,6 +63,7 @@ Medium: 11px
 
 html {
   font-size: 62.5%; /* 10px */
+  overflow-x: hidden;
 }
 
 body {
@@ -70,6 +71,9 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+
+  /* Works if there is nothing absolutely positioned in relation to body */
+  overflow-x: hidden;
 }
 
 /* ************************************ */
