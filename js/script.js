@@ -1,8 +1,3 @@
-console.log("Hello world!");
-
-const myName = "Bartosz Moskwa";
-const h1 = document.querySelector(".heading-primary");
-
 /////////////////////////////////////////////////
 // Mobile Navigation
 
