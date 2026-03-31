@@ -1,6 +1,6 @@
-# Omnifood
+# Jedzonko
 
-## About Omnifood
+## About Jedzonko
 
 Jesteśmy firmą technologiczną, kładziemy duży nacisk na dobre samopoczucie klientów poprzez zdrową dietę. Większość ludzi jest bardzo zajęta pracą, rodziną i przyjaciółmi oraz innymi czynnościami, przez co nie mają czasu na gotowanie. To prowadzi do złej diety i trwałych konsekwencji zdrowotnych. Chcemy rozwiązać ten problem, stosując podejście skoncentrowane na sztucznej inteligencji. Użytkownicy mogą używać naszej aplikacji, aby wybierać swoją dietę i potrawy, które lubią, a nasz algorytm utworzy niestandardowy i indywidualny tygodniowy plan posiłków. Na tym nie poprzestajemy. Współpracujemy z restauracjami i innymi partnerami kulinarnymi, aby faktycznie gotować i dostarczać wszystkie posiłki z wygenerowanych planów posiłków w wybranych miastach. Wszystko to zostanie zapakowane w miesięczną subskrypcję, w ramach której użytkownicy mogą wybierać między otrzymywaniem jednego lub dwóch posiłków dziennie, każdego dnia miesiąca.
 
@@ -10,20 +10,20 @@ Headline: Zdrowy posiłek dostarczany pod Twoje drzwi, każdego dnia
 
 Brand color: #e67e22
 
-## Omnifood Website Content
+## Jedzonko Website Content
 
 ### Summary
 
 Inteligentna 365-dniowa subskrypcja żywności, która sprawi, że znów będziesz jeść zdrowo. Dostosowana do Twoich osobistych upodobań i potrzeb żywieniowych. W zeszłym roku dostarczyliśmy ponad 250 000 posiłków!
 
-### Omnifood features
+### Jedzonko features
 
 Nigdy więcej nie gotuj!: Nasze subskrypcje obejmują 365 dni w roku, nawet wliczając główne święta.
 Lokalnie i ekologicznie: Nasi kucharze używają wyłącznie lokalnych, świeżych i ekologicznych produktów.
 Bez marnowania: Wszyscy nasi partnerzy używają wyłącznie ekologicznych pojemników do pakowania wszystkich posiłków.
 Wstrzymaj się w dowolnym momencie: Wybierasz się na wakacje? Po prostu wstrzymaj subskrypcję.
 
-### How Omnifood works
+### How Jedzonko works
 
 [Show big app images]
 
@@ -35,7 +35,7 @@ Zatwierdź swój tygodniowy plan: Raz w tygodniu zatwierdź plan posiłków wyge
 
 Otrzymuj posiłki w dogodnym czasie: Najlepsi kucharze w mieście przygotują wybrany przez Ciebie posiłek każdego dnia, my dostarczymy go pod Twoje drzwi w najbardziej dogodnym dla Ciebie czasie. Możesz codziennie zmieniać harmonogram dostaw i adres!
 
-### Omnifood works with any diet
+### Jedzonko works with any diet
 
 Vegetarian
 Vegan
